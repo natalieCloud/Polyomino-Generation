@@ -1,22 +1,21 @@
-1, 1a, 'numpy_binaries/1a.npy', 'numpy_binaries/1a_roots.npz', 'numpy_binaries/1a_branches.npz'
-2, 2a, 'numpy_binaries/2a.npy', 'numpy_binaries/2a_roots.npz', 'numpy_binaries/2a_branches.npz'
-3, 3a, 'numpy_binaries/3a.npy', 'numpy_binaries/3a_roots.npz', 'numpy_binaries/3a_branches.npz'
-3, 3b, 'numpy_binaries/3b.npy', 'numpy_binaries/3b_roots.npz', 'numpy_binaries/3b_branches.npz'
-4, 4a, 'numpy_binaries/4a.npy', 'numpy_binaries/4a_roots.npz', 'numpy_binaries/4a_branches.npz'
-4, 4b, 'numpy_binaries/4b.npy', 'numpy_binaries/4b_roots.npz', 'numpy_binaries/4b_branches.npz'
-4, 4c, 'numpy_binaries/4c.npy', 'numpy_binaries/4c_roots.npz', 'numpy_binaries/4c_branches.npz'
-4, 4d, 'numpy_binaries/4d.npy', 'numpy_binaries/4d_roots.npz', 'numpy_binaries/4d_branches.npz'
-4, 4e, 'numpy_binaries/4e.npy', 'numpy_binaries/4e_roots.npz', 'numpy_binaries/4e_branches.npz'
-5, 5a, 'numpy_binaries/5a.npy', 'numpy_binaries/5a_roots.npz', 'numpy_binaries/5a_branches.npz'
-5, 5b, 'numpy_binaries/5b.npy', 'numpy_binaries/5b_roots.npz', 'numpy_binaries/5b_branches.npz'
-5, 5c, 'numpy_binaries/5c.npy', 'numpy_binaries/5c_roots.npz', 'numpy_binaries/5c_branches.npz'
-5, 5d, 'numpy_binaries/5d.npy', 'numpy_binaries/5d_roots.npz', 'numpy_binaries/5d_branches.npz'
-5, 5e, 'numpy_binaries/5e.npy', 'numpy_binaries/5e_roots.npz', 'numpy_binaries/5e_branches.npz'
-5, 5f, 'numpy_binaries/5f.npy', 'numpy_binaries/5f_roots.npz', 'numpy_binaries/5f_branches.npz'
-5, 5g, 'numpy_binaries/5g.npy', 'numpy_binaries/5g_roots.npz', 'numpy_binaries/5g_branches.npz'
-5, 5h, 'numpy_binaries/5h.npy', 'numpy_binaries/5h_roots.npz', 'numpy_binaries/5h_branches.npz'
-5, 5i, 'numpy_binaries/5i.npy', 'numpy_binaries/5i_roots.npz', 'numpy_binaries/5i_branches.npz'
-5, 5j, 'numpy_binaries/5j.npy', 'numpy_binaries/5j_roots.npz', 'numpy_binaries/5j_branches.npz'
-5, 5k, 'numpy_binaries/5k.npy', 'numpy_binaries/5k_roots.npz', 'numpy_binaries/5k_branches.npz'
-5, 5l, 'numpy_binaries/5l.npy', 'numpy_binaries/5l_roots.npz', 'numpy_binaries/5l_branches.npz'
-
+1,1a,numpy_binaries/1a.npy
+2,2a,numpy_binaries/2a.npy 
+3,3a,numpy_binaries/3a.npy 
+3,3b,numpy_binaries/3b.npy
+4,4a,numpy_binaries/4a.npy
+4,4b,numpy_binaries/4b.npy
+4,4c,numpy_binaries/4c.npy
+4,4d,numpy_binaries/4d.npy
+4,4e,numpy_binaries/4e.npy
+5,5a,numpy_binaries/5a.npy
+5,5b,numpy_binaries/5b.npy
+5,5c,numpy_binaries/5c.npy
+5,5d,numpy_binaries/5d.npy
+5,5e,numpy_binaries/5e.npy
+5,5f,numpy_binaries/5f.npy
+5,5g,numpy_binaries/5g.npy
+5,5h,numpy_binaries/5h.npy
+5,5i,numpy_binaries/5i.npy
+5,5j,numpy_binaries/5j.npy
+5,5k,numpy_binaries/5k.npy
+5,5l,numpy_binaries/5l.npy
