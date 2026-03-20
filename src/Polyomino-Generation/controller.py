@@ -3,6 +3,9 @@ import numpy as np
 import database_pipe as dp
 from polyomino import Polyomino
 from draw_loop import CellGrid
+from polyogger import get_logger
+
+logger = get_logger()
 
 class Controller:
 
@@ -44,6 +47,7 @@ class Controller:
         self.local_bind.flip_cells(self.local_bind.get_poly().get_rep())
 
     def moveUp(self, event):
+        logger.debug("This is from the controller.py file")
         self.local_bind.get_poly().move_plane(-1, 0)
         self.local_bind.flip_cells(self.local_bind.get_poly().get_rep())
 
